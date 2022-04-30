@@ -10,4 +10,4 @@ then
 fi
 #pwd is a command that shows the absolute path to the file
 #> reroutes output of the command into a file
-pwd > $output;
+which sh > $output;
